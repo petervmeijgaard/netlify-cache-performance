@@ -1,0 +1,5 @@
+.idea
+.netlify
+.env
+
+node_modules
